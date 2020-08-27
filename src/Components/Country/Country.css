@@ -1,0 +1,25 @@
+.country-card{
+    margin: 50px;
+    border-radius: 10px;
+    padding: 20px;
+    border: 2px solid tomato;
+}
+
+.flag-image{
+    height: 50px;
+    width: auto;
+}
+
+.country-btn{
+    background-color: tomato;
+    border: none;
+    padding: 10px;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 5px;
+    outline: none;
+}
+
+.country-btn:active {
+    background-color: red;
+}
